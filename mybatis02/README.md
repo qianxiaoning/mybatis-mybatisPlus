@@ -1,5 +1,5 @@
 ### mybatis02
-#### SqlSession通过接口调接口方法
+#### xml配置SqlSessionFactory，接口方式访问数据库
 ```
 概要：
 1.mapper namespace为mapper接口全路径

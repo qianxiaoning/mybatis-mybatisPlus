@@ -1,5 +1,5 @@
 ### mybatis01
-#### SqlSession直接调mapper.xml文件方法
+#### xml配置SqlSessionFactory，命名空间方式访问数据库
 ```
 概要：
 1.mapper namespace为mapper文件名

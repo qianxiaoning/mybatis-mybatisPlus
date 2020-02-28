@@ -13,7 +13,7 @@ import org.junit.Test;
 import com.qxn.dao.EmpMapper;
 import com.qxn.pojo.Emp;
 
-public class TestMybatis1 {
+public class MybatisTest01 {
 	private static SqlSession session;	
 	static {
 		try {

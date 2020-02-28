@@ -12,7 +12,7 @@ import org.junit.Test;
 
 import com.qxn.pojo.Emp;
 
-public class TestMybatis {
+public class MybatisTest {
 	/**
 	 * 查询emp表中的所有员工List<Emp>
 	 */
